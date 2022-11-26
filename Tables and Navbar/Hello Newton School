@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<htm lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <main class="newton" id="school">
+            <p class="hello-newton">Hello Newton School</p>
+
+        </main>
+    </body>
+</html>
+
+
+?*CSS Part*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.newton{
+    width: 150px;
+    height: 150px;
+    background-color: black;
+}
+
+.hello-newton{
+    color: white;
+    margin-left: 32px;
+    padding: 10px;
+}
