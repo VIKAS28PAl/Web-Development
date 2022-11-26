@@ -1,0 +1,10 @@
+<ol >
+    <li data-ns-test="shoppingList">table</li>
+    <li data-ns-test="shoppingList">chair</li>
+     <li data-ns-test="shoppingList">bike</li>
+</ol>
+<ul>
+    <li data-ns-test="holidayList">coconut</li>
+    <li data-ns-test="holidayList">banana</li>
+    <li data-ns-test="holidayList">apples</li>
+</ul>
